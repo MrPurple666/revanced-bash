@@ -1,8 +1,8 @@
 # Drive id
-id="10_i5z-zBFDuJ3V7FX7LbMtUt_VCyglfe"
-cli="2.5.3"
-patches="2.13.3"
-integrations="0.23.0"
+id="put id here"
+cli="cli version"
+patches="patches version"
+integrations="integrations version"
 # Update
 echo "Updating"
 apt update -y
